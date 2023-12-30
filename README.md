@@ -1,4 +1,4 @@
-# Number Classification Program
+no# Number Classification Program
 
 ## Overview
 This program prompts the user to enter a number and classifies it as zero, even, or odd using structured programming concepts such as if-else statements, loops, and functions.
@@ -17,9 +17,3 @@ This program prompts the user to enter a number and classifies it as zero, even,
 
 ## Usage Notes
 - Ensure valid input: The program expects the user to input a valid integer. If invalid input is provided, it will display an error message.
-
-## Example
-```bash
-$ python number_classification.py
-Enter a number: 7
-The entered number is odd.
